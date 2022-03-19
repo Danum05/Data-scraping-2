@@ -1,0 +1,702 @@
+[
+      {
+            "Ranking": "1",
+            "Judul": "The Batman",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:37"
+      },
+      {
+            "Ranking": "2",
+            "Judul": "The Adam Project",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOWM0YWMwMDQtMjE5NS00ZTIwLWE1NWEtODViMWZjMWI2OTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:37"
+      },
+      {
+            "Ranking": "3",
+            "Judul": "Fresh",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZTgxMGQ2ZDctYWY4Yy00YTI4LWIxMmYtOWViMGI5ZDIwMmFiXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:37"
+      },
+      {
+            "Ranking": "4",
+            "Judul": "West Side Story",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMzQ5ZDZhZDItZTNmZi00MWQ0LWJlNDUtZTE4ZWJmODNlM2Y3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:38"
+      },
+      {
+            "Ranking": "5",
+            "Judul": "Turning Red",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNjY0MGEzZmQtZWMxNi00MWVhLWI4NWEtYjQ0MDkyYTJhMDU0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:38"
+      },
+      {
+            "Ranking": "6",
+            "Judul": "Spider-Man: No Way Home",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:38"
+      },
+      {
+            "Ranking": "7",
+            "Judul": "Deep Water",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNTE1M2NjNDgtYjQ2Ny00YTMzLWJiYWQtMTdmM2Q2YjA1MDg1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:39"
+      },
+      {
+            "Ranking": "8",
+            "Judul": "The Weekend Away",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZmYzNTBiZTAtNmJjNi00MTcyLThlZGMtNDA5Y2RkNjM3ODAzXkEyXkFqcGdeQXVyMzg3OTQ5MjU@._V1_UY67_CR4,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:39"
+      },
+      {
+            "Ranking": "9",
+            "Judul": "The King's Man",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDEzZDY2ZDktNTlmOS00NThjLThkNTEtMjE5MzI5NWEwZmRjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:39"
+      },
+      {
+            "Ranking": "10",
+            "Judul": "Bullet Train",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNmZkMGJlODktNzMzMC00MmY2LTkzNDgtMjUwOWFiNjFjZGIwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:40"
+      },
+      {
+            "Ranking": "11",
+            "Judul": "The Dark Knight",
+            "Tahun_Rilis": "2008",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:40"
+      },
+      {
+            "Ranking": "12",
+            "Judul": "Scream",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYjExYTcwYmYtMWY2Zi00MGJlLTk3YjUtZTU1Zjg4MDc0Y2FjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:40"
+      },
+      {
+            "Ranking": "13",
+            "Judul": "Uncharted",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:41"
+      },
+      {
+            "Ranking": "14",
+            "Judul": "Free Guy",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:41"
+      },
+      {
+            "Ranking": "15",
+            "Judul": "Encanto",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNjE5NzA4ZDctOTJkZi00NzM0LTkwOTYtMDI4MmNkMzIxODhkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:42"
+      },
+      {
+            "Ranking": "16",
+            "Judul": "Licorice Pizza",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZTgxMWJkMzItMzg1YS00NDJiLTljYjctMTc2YzQzZDZjZDAyXkEyXkFqcGdeQXVyODQ2OTIzNDU@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:42"
+      },
+      {
+            "Ranking": "17",
+            "Judul": "Against the Ice",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMmIwYzA4YTAtYTMwYy00NzA3LWFmZGQtYWY3MTNlMGM3NDc5XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:42"
+      },
+      {
+            "Ranking": "18",
+            "Judul": "The Power of the Dog",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZGRhYjE2NWUtN2FkNy00NGI3LTkxYWMtMDk4Yjg5ZjI3MWI2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:43"
+      },
+      {
+            "Ranking": "19",
+            "Judul": "Nightmare Alley",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTI4NDhhNGEtZjQxZC00ZTRmLThmZTctOGJmY2ZlOTc0ZGY0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:43"
+      },
+      {
+            "Ranking": "20",
+            "Judul": "Dune",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:44"
+      },
+      {
+            "Ranking": "21",
+            "Judul": "The Bubble",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZWRiMDRkNmItYjkyNi00ZDFmLWFkMWEtNzYxYjk3NDI1YTFkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:44"
+      },
+      {
+            "Ranking": "22",
+            "Judul": "Blacklight",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BY2ViYmNhNzEtZDJhNS00YzM4LTkzZWItZDJiNzc5ZDExOWZmXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:44"
+      },
+      {
+            "Ranking": "23",
+            "Judul": "Dog",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYjA2MDM2YjctYzNhNC00NGEzLWFmYWEtODExODFkNmUyOGE2XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:45"
+      },
+      {
+            "Ranking": "24",
+            "Judul": "Death on the Nile",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNjI4ZTQ1OTYtNTI0Yi00M2EyLThiNjMtMzk1MmZlOWMyMDQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:45"
+      },
+      {
+            "Ranking": "25",
+            "Judul": "Belfast",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BODMwYTYyY2ItOWQ5Yi00OTI1LTllYTQtYTdlNWM4YzJhYTM0XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:46"
+      },
+      {
+            "Ranking": "26",
+            "Judul": "X",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTJiMmE5YWItOWZjYS00YTg0LWE0MTYtMzg2ZTY4YjNkNDEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_UY67_CR4,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:46"
+      },
+      {
+            "Ranking": "27",
+            "Judul": "Batman Begins",
+            "Tahun_Rilis": "2005",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:46"
+      },
+      {
+            "Ranking": "28",
+            "Judul": "Sing 2",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMWRiZGQ1NDMtODQ2OS00MDlhLWJkZGYtM2ZmNjlhZThjOWRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:47"
+      },
+      {
+            "Ranking": "29",
+            "Judul": "The French Dispatch",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNmQxZTNiODYtNzBhYy00MzVlLWJlN2UtNTc4YWZjMDIwMmEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:47"
+      },
+      {
+            "Ranking": "30",
+            "Judul": "House of Gucci",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYzdlMTMyZWQtZWNmMC00MTJiLWIyMWMtM2ZlZDdlYzZhNTc0XkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:48"
+      },
+      {
+            "Ranking": "31",
+            "Judul": "The Dark Knight Rises",
+            "Tahun_Rilis": "2012",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:48"
+      },
+      {
+            "Ranking": "32",
+            "Judul": "West Side Story",
+            "Tahun_Rilis": "1961",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTM0NDAxOTI5MF5BMl5BanBnXkFtZTcwNjI4Mjg3NA@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:48"
+      },
+      {
+            "Ranking": "33",
+            "Judul": "Eternals",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:49"
+      },
+      {
+            "Ranking": "34",
+            "Judul": "CODA",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNGNmMzJjMTItODA0OC00ZWM0LWJmMTctMDg3MzM2M2Y5NTIyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:49"
+      },
+      {
+            "Ranking": "35",
+            "Judul": "Morbius",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNWExYzEwY2UtZTNhYi00MDRjLTg4YzYtN2QzN2E3MjIwY2Q5XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:49"
+      },
+      {
+            "Ranking": "36",
+            "Judul": "No Exit",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTc4M2Q2Y2YtMjM0MS00ZTEyLWExYmMtMjEzNjlmNTNjMWYxXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:50"
+      },
+      {
+            "Ranking": "37",
+            "Judul": "Don't Look Up",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjcwZjY3NjAtNzkxZS00NmFjLTg1OGYtODJmMThhY2UwMTc5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY67_CR4,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:50"
+      },
+      {
+            "Ranking": "38",
+            "Judul": "The Kashmir Files",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjI0YmMzNDctZGFkZi00NmIyLTk5NWEtMTU1MGRmMDQwNWU2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:51"
+      },
+      {
+            "Ranking": "39",
+            "Judul": "F9: The Fast Saga",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:51"
+      },
+      {
+            "Ranking": "40",
+            "Judul": "Doctor Strange in the Multiverse of Madness",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZDg5ZDg2MWQtM2ExNi00ZjEzLTgzMDQtZmJlYWEwYmM4ODUxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:51"
+      },
+      {
+            "Ranking": "41",
+            "Judul": "After Yang",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjkzYmFjZGItMDYwMy00YTljLWE0YWYtOWNmNzdkZDdlYmI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:52"
+      },
+      {
+            "Ranking": "42",
+            "Judul": "Ghostbusters: Afterlife",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMmZiMjdlN2UtYzdiZS00YjgxLTgyZGMtYzE4ZGU5NTlkNjhhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:52"
+      },
+      {
+            "Ranking": "43",
+            "Judul": "Drive My Car",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BY2NkNDdmZTUtYWQ2MC00MjUyLTk1MGMtNWZiZjI3ZWMzNDYwXkEyXkFqcGdeQXVyNTY4ODAxODI@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:53"
+      },
+      {
+            "Ranking": "44",
+            "Judul": "Fantastic Beasts: The Secrets of Dumbledore",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTNjNWRjZDUtYjU1OC00NGFmLWE2ZDktMzhhYmIwOTU4YjVmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:53"
+      },
+      {
+            "Ranking": "45",
+            "Judul": "Cyrano",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNDhhYjU4ZDMtYjI5OC00N2RkLTg5MGItZTNkM2Q5MzE5NjQxXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:53"
+      },
+      {
+            "Ranking": "46",
+            "Judul": "Batman",
+            "Tahun_Rilis": "1989",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:54"
+      },
+      {
+            "Ranking": "47",
+            "Judul": "No Time to Die",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:54"
+      },
+      {
+            "Ranking": "48",
+            "Judul": "Texas Chainsaw Massacre",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDU4Yzk1NmUtNDU4OC00YzVmLTgwOTUtYTY2NjNmMjY5YjVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:54"
+      },
+      {
+            "Ranking": "49",
+            "Judul": "The Lost City",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMmIwYzFhODAtY2I1YS00ZDdmLTkyYWQtZjI5NDIwMDc2MjEyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:55"
+      },
+      {
+            "Ranking": "50",
+            "Judul": "The Shawshank Redemption",
+            "Tahun_Rilis": "1994",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:55"
+      },
+      {
+            "Ranking": "51",
+            "Judul": "Umma",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYWFmMTllODEtNDE5Zi00ZTliLWFmZDItZDk3Y2FmZDNlMjNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:56"
+      },
+      {
+            "Ranking": "52",
+            "Judul": "Barb Wire",
+            "Tahun_Rilis": "1996",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYWQ3NTc1YzQtNDJhYS00NDIzLWFmM2EtZjgxNzQwNDQ4YjNmXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:56"
+      },
+      {
+            "Ranking": "53",
+            "Judul": "Old",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjJjZGRhM2YtNTU4NC00OWMwLThhYWUtMWUxNDNhMDZlOTNmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:56"
+      },
+      {
+            "Ranking": "54",
+            "Judul": "The Worst Person in the World",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZmNmNWM5ZGMtYjM0My00NjliLWFlODYtZTY0ZTYzNjgxYjExXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:57"
+      },
+      {
+            "Ranking": "55",
+            "Judul": "Joker",
+            "Tahun_Rilis": "2019",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:57"
+      },
+      {
+            "Ranking": "56",
+            "Judul": "365 Days",
+            "Tahun_Rilis": "2020",
+            "Image": "https://m.media-amazon.com/images/M/MV5BODljZTM3ODAtMDc0YS00NmI4LTlmZTUtM2I5MDAzNTQxZmMxXkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:57"
+      },
+      {
+            "Ranking": "57",
+            "Judul": "The Matrix Resurrections",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:58"
+      },
+      {
+            "Ranking": "58",
+            "Judul": "Tyler Perry's A Madea Homecoming",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjQwMmMyMWYtMGM2NS00NTJiLTg4YWYtM2E2NGIyMmMwZDhmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:58"
+      },
+      {
+            "Ranking": "59",
+            "Judul": "The Suicide Squad",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMWU4NDQ2NjEtNjhkOS00Y2MwLWJkODItZmJhZGE0MDU1OWM4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:59"
+      },
+      {
+            "Ranking": "60",
+            "Judul": "The Last Duel",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZGExZTUzYWQtYWJjZi00OTI4LTk4OGYtNTA2YzcwMmNiZTMxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:59"
+      },
+      {
+            "Ranking": "61",
+            "Judul": "Batman Forever",
+            "Tahun_Rilis": "1995",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:31:59"
+      },
+      {
+            "Ranking": "62",
+            "Judul": "DC League of Super-Pets",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYzVlZjk4YzMtZDNhNC00ZjY0LTg5ZmEtNjU1MTJlN2NhY2VlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UY67_CR4,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:00"
+      },
+      {
+            "Ranking": "63",
+            "Judul": "The Godfather",
+            "Tahun_Rilis": "1972",
+            "Image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:00"
+      },
+      {
+            "Ranking": "64",
+            "Judul": "Pleasure",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNmU3ZTJjMTEtYzc2Ny00YjVhLTkyYmQtZTFhYWY0N2MxMzkxXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:01"
+      },
+      {
+            "Ranking": "65",
+            "Judul": "A Day to Die",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNmM2YWFkNWUtYTliYy00MjNkLThjMjMtNjcyZjAzMWM1M2IxXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:01"
+      },
+      {
+            "Ranking": "66",
+            "Judul": "Batman Returns",
+            "Tahun_Rilis": "1992",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:02"
+      },
+      {
+            "Ranking": "67",
+            "Judul": "Batman & Robin",
+            "Tahun_Rilis": "1997",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:02"
+      },
+      {
+            "Ranking": "68",
+            "Judul": "Kimi",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYjFmOWUwYjgtM2UyYS00M2FmLTgwNmUtMWIwNTc2ZTgzNmRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:03"
+      },
+      {
+            "Ranking": "69",
+            "Judul": "The Lost Daughter",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZTJmYTJmYTktMzU1Yy00ZTZlLTgzNjItYmY4ZDFjZGFjYjZhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:03"
+      },
+      {
+            "Ranking": "70",
+            "Judul": "The Shadow in My Eye",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNzYzZTgxMTQtYTlhYy00OGJkLThkMGEtNjlhZTRkNDIwZTkyXkEyXkFqcGdeQXVyMTM0NTc2NDgw._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:04"
+      },
+      {
+            "Ranking": "71",
+            "Judul": "The Hyperions",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZDMzOWU1ZTgtOTBiZC00YjAzLWJhYjctYzYzODMxMjFjNjliXkEyXkFqcGdeQXVyMjU2MjYwNzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:04"
+      },
+      {
+            "Ranking": "72",
+            "Judul": "Gangubai Kathiawadi",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BN2M4NDM2NDItMzgzNy00OWRiLThhNjEtZDA2OWMyNTcwYzRjXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_UY67_CR4,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:05"
+      },
+      {
+            "Ranking": "73",
+            "Judul": "tick, tick...BOOM!",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZmMyMmE0M2UtN2E2MC00YzVmLTkwODgtOTVhYjVlOTBhY2RjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:05"
+      },
+      {
+            "Ranking": "74",
+            "Judul": "King Richard",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTcyNmY4ZGEtYmE4Zi00ZDViLTlmYzMtMmQ4ZTM4OWNmZjQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:06"
+      },
+      {
+            "Ranking": "75",
+            "Judul": "Knives Out",
+            "Tahun_Rilis": "2019",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:06"
+      },
+      {
+            "Ranking": "76",
+            "Judul": "Spencer",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTdkZDc4YmQtYzA3My00NzliLThjN2YtMDIwMDkxY2Y4ODdmXkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:07"
+      },
+      {
+            "Ranking": "77",
+            "Judul": "Top Gun",
+            "Tahun_Rilis": "1986",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTgzYTg5NTMtMjFmMy00MWIxLWEwYTQtN2UyMzY3NDIzOTRjL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:07"
+      },
+      {
+            "Ranking": "78",
+            "Judul": "Avengers: Endgame",
+            "Tahun_Rilis": "2019",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:07"
+      },
+      {
+            "Ranking": "79",
+            "Judul": "Nobody",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjM5YTRlZmUtZGVmYi00ZjE2LWIyNzAtOWVhMDk1MDdkYzhjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:08"
+      },
+      {
+            "Ranking": "80",
+            "Judul": "Scream",
+            "Tahun_Rilis": "1996",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:08"
+      },
+      {
+            "Ranking": "81",
+            "Judul": "Once Upon a Time... In Hollywood",
+            "Tahun_Rilis": "2019",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:09"
+      },
+      {
+            "Ranking": "82",
+            "Judul": "Oppenheimer",
+            "Tahun_Rilis": "2023",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMGM4MDViMGQtYjFmMi00NDhiLThhN2MtYTQxMmU4ZGM3NDAwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR37,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:09"
+      },
+      {
+            "Ranking": "83",
+            "Judul": "Kingsman: The Secret Service",
+            "Tahun_Rilis": "2014",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:10"
+      },
+      {
+            "Ranking": "84",
+            "Judul": "Top Gun: Maverick",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOGUwZDRjNTYtYjI0Zi00OWZjLTgxZWItZjNiZWEyYThlZTkyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:10"
+      },
+      {
+            "Ranking": "85",
+            "Judul": "Red Rocket",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjYyZWMyNjYtZjNlNC00NmNhLThjOTItYmViMGU5ZDU4YTM4XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:11"
+      },
+      {
+            "Ranking": "86",
+            "Judul": "Tenet",
+            "Tahun_Rilis": "2020",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:11"
+      },
+      {
+            "Ranking": "87",
+            "Judul": "Zack Snyder's Justice League",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:11"
+      },
+      {
+            "Ranking": "88",
+            "Judul": "Marry Me",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjczZjI2M2UtOGMwOS00YWFhLTg0OTYtZDY5ZWIwNjhlOWI2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:12"
+      },
+      {
+            "Ranking": "89",
+            "Judul": "Jackass Forever",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNTdmMDNmYmItOWFmNC00YzdkLWIyZWMtMGRlMTQyZDZmNDU0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:12"
+      },
+      {
+            "Ranking": "90",
+            "Judul": "Jhund",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BY2E2NmNlOWUtNThjZi00YmNhLTlmNWEtYjQxYzlmZWQxZGU5XkEyXkFqcGdeQXVyOTA0NDk0NzM@._V1_UY67_CR2,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:13"
+      },
+      {
+            "Ranking": "91",
+            "Judul": "The Pirates: The Last Royal Treasure",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZGFjYWM0NzgtOGJkNi00ZjgyLThjZGEtMDhlYTg5NThlYjIxXkEyXkFqcGdeQXVyMTM1NTM4MzQx._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:13"
+      },
+      {
+            "Ranking": "92",
+            "Judul": "The 355",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNzk4MDZhNTctMDA3OC00ODdkLWIyOWYtN2M0MzA3MDY5NDk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:14"
+      },
+      {
+            "Ranking": "93",
+            "Judul": "Radhe Shyam",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMzNhOTdlNmUtYzNiYi00MmUxLTg3ZjgtZjk4Y2Y5YTk3ODdiXkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY67_CR4,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:14"
+      },
+      {
+            "Ranking": "94",
+            "Judul": "Interstellar",
+            "Tahun_Rilis": "2014",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:14"
+      },
+      {
+            "Ranking": "95",
+            "Judul": "Last Night in Soho",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjgwZDIwY2MtNGZlNy00NGRlLWFmNTgtOTBkZThjMDUwMGJhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:15"
+      },
+      {
+            "Ranking": "96",
+            "Judul": "The Green Knight",
+            "Tahun_Rilis": "2021",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjMxNTdiNWMtOWY0My00MjM4LTkwNzMtOGI0YThhN2Q4M2I4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:15"
+      },
+      {
+            "Ranking": "97",
+            "Judul": "The Green Mile",
+            "Tahun_Rilis": "1999",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:15"
+      },
+      {
+            "Ranking": "98",
+            "Judul": "300",
+            "Tahun_Rilis": "2006",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNWMxYTZlOTUtZDExMi00YzZmLTkwYTMtZmM2MmRjZmQ3OGY4XkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:16"
+      },
+      {
+            "Ranking": "99",
+            "Judul": "Thor: Love and Thunder",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMzZjMTIwNjYtYTg0ZS00ZDFjLTk3MDctMTY3ZTgwMjQ4MmFiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:16"
+      },
+      {
+            "Ranking": "100",
+            "Judul": "The Northman",
+            "Tahun_Rilis": "2022",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDNkMTVlODUtNjBlMi00ZTUyLWI5OTItZTFjMjVlMTA5MTkzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Waktu_Scraping": "2022-03-19 19:32:17"
+      }
+]
